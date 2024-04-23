@@ -24,7 +24,7 @@ We will keep data for 20 years, so the table length is 20, and your hash functio
    - void printAll(): This method prints all students in the treeTable using the preorder approach.
    - ArrayList<Student> studentWithGPA(double): It returns an ArrayList of all students whose GPA is below the received parameter.
 
-4. Your main application has a menu with the following functionalities:
+4. The main application has a menu with the following functionalities:
 
    - Add new student: Prompts the user to enter student’s data, then inserts it into the treeTable.
    - Search for a student: Prompts the user to enter an id then searches in treeTable and displays the result.
